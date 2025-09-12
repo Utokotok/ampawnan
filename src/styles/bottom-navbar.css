@@ -1,0 +1,19 @@
+.bottom-nav-options input{
+    @apply appearance-none hidden;
+}
+
+.bottom-nav-options p{
+    @apply peer-checked:text-white;
+}
+
+.bottom-nav-options{
+    @apply relative text-[var(--text)] flex justify-center items-center flex-col text-[0.7rem] pt-1 w-full z-10;
+}
+
+.bottom-nav-icons{
+    @apply h-5 z-10 peer-checked:text-white;
+}
+
+.bottom-nav-options span{
+    @apply translate-y-14 absolute bg-lime-600 transition-all duration-200 ease-in h-16 w-16 peer-checked:-translate-y-0 rounded-full -z-10;
+}
