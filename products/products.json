@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Bamboo Organic Cat Litter 10L",
+        "price": 679.00,
+        "image": "products/images/litter-1.jpg",
+        "location": "Marikina City",
+        "description": "Made from natural and organic bamboo Highly absorbent (5-6 times greater than its weight). Natural bamboo's antibacterial, antioxidant, and deodorizing abilities protect your pet and ensure indoor fresh air. 100% biodegradable. 100% Eco-Friendly.",
+        "category": "litter"
+    },
+    {
+        "id": 2,
+        "name": "Catsan Clumping Cat Litter 10L",
+        "price": 330.00,
+        "image": "products/images/litter-2.jpg",
+        "location": "Quezon City",
+        "description": "Quickly Absorbs and Forms Well-Defined Clumps Easy to Remove. Effectively Absorbs Odour. Catsan Clumping Cat Litter is a top-quality cat litter made from naturally occurring Calcium Bentonite. When wet, the clay particles quickly absorb moisture and form small well-defined clumps. These clumps can be easily removed, thus, leaving the tray always clean and fresh.",
+        "category": "litter"
+    },
+    {
+        "id": 3,
+        "name": "Petsup Mineral Cat Litter",
+        "price": 349.00,
+        "image": "products/images/litter-3.jpg",
+        "location": "Quezon City",
+        "description": "Keep your furry friend's litter box clean and fresh with Petsup Mineral Cat Litter Sand! This high-quality litter is formulated to provide natural odor control and absorbency for cats and kittens. The Petsup Mineral Cat Litter Sand is designed for quick and easy cleaning, so you can spend more time playing with your furbaby.",
+        "category": "litter"
+    },
+    {
+        "id": 4,
+        "name": "Kit Cat Classic Clump Coffee Cat Litter 10L",
+        "price": 349.00,
+        "image": "products/images/litter-4.jpg",
+        "location": "Marikina City",
+        "description": "Anti-bacterial and non-toxic. Maximum odor control. Enhanced with deodorizing beads. 99% dust-free and non-tracking. Excellent absorption. Kit Cat Classic ClumpTM is a revolutionary cat litter enhanced with deodorizing beads, specially formulated by cat lovers to provide exceptional odor control and ease of cleaning.",
+        "category": "litter"
+    },
+        {
+        "id": 5,
+        "name": "Kit Cat Soya Clump Confetti Cat Litter 7L",
+        "price": 439.00,
+        "image": "products/images/litter-5.jpg",
+        "location": "Quezon City",
+        "description": "Kit Cat Soya Clump Confetti Cat Litter 7L. Quick clumping. Eco-friendly. Suitable for all life stages. Virtually 99.9% dust-free. Scoop and flush. Soft and gentle on paw. Non-toxic and 100% safe. Odor-control. No tracking.",
+        "category": "litter"
+    },
+        {
+        "id": 6,
+        "name": "",
+        "price": 330.00,
+        "image": "products/images/litter-6.jpg",
+        "location": "Quezon City",
+        "description": "",
+        "category": "litter"
+    },
+        {
+        "id": 7,
+        "name": "",
+        "price": 330.00,
+        "image": "products/images/litter-7.jpg",
+        "location": "Quezon City",
+        "description": "",
+        "category": "litter"
+    }
+
+]
