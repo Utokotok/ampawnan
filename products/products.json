@@ -1,66 +1,443 @@
 [
-    {
-        "id": 1,
-        "name": "Bamboo Organic Cat Litter 10L",
-        "price": 679.00,
-        "image": "products/images/litter-1.jpg",
-        "location": "Marikina City",
-        "description": "Made from natural and organic bamboo Highly absorbent (5-6 times greater than its weight). Natural bamboo's antibacterial, antioxidant, and deodorizing abilities protect your pet and ensure indoor fresh air. 100% biodegradable. 100% Eco-Friendly.",
-        "category": "litter"
-    },
-    {
-        "id": 2,
-        "name": "Catsan Clumping Cat Litter 10L",
-        "price": 330.00,
-        "image": "products/images/litter-2.jpg",
-        "location": "Quezon City",
-        "description": "Quickly Absorbs and Forms Well-Defined Clumps Easy to Remove. Effectively Absorbs Odour. Catsan Clumping Cat Litter is a top-quality cat litter made from naturally occurring Calcium Bentonite. When wet, the clay particles quickly absorb moisture and form small well-defined clumps. These clumps can be easily removed, thus, leaving the tray always clean and fresh.",
-        "category": "litter"
-    },
-    {
-        "id": 3,
-        "name": "Petsup Mineral Cat Litter",
-        "price": 349.00,
-        "image": "products/images/litter-3.jpg",
-        "location": "Quezon City",
-        "description": "Keep your furry friend's litter box clean and fresh with Petsup Mineral Cat Litter Sand! This high-quality litter is formulated to provide natural odor control and absorbency for cats and kittens. The Petsup Mineral Cat Litter Sand is designed for quick and easy cleaning, so you can spend more time playing with your furbaby.",
-        "category": "litter"
-    },
-    {
-        "id": 4,
-        "name": "Kit Cat Classic Clump Coffee Cat Litter 10L",
-        "price": 349.00,
-        "image": "products/images/litter-4.jpg",
-        "location": "Marikina City",
-        "description": "Anti-bacterial and non-toxic. Maximum odor control. Enhanced with deodorizing beads. 99% dust-free and non-tracking. Excellent absorption. Kit Cat Classic ClumpTM is a revolutionary cat litter enhanced with deodorizing beads, specially formulated by cat lovers to provide exceptional odor control and ease of cleaning.",
-        "category": "litter"
-    },
-        {
-        "id": 5,
-        "name": "Kit Cat Soya Clump Confetti Cat Litter 7L",
-        "price": 439.00,
-        "image": "products/images/litter-5.jpg",
-        "location": "Quezon City",
-        "description": "Kit Cat Soya Clump Confetti Cat Litter 7L. Quick clumping. Eco-friendly. Suitable for all life stages. Virtually 99.9% dust-free. Scoop and flush. Soft and gentle on paw. Non-toxic and 100% safe. Odor-control. No tracking.",
-        "category": "litter"
-    },
-        {
-        "id": 6,
-        "name": "ODAIWNOAIWDNAWDOI",
-        "price": 330.00,
-        "image": "products/images/litter-6.jpg",
-        "location": "Quezon City",
-        "description": "",
-        "category": "litter"
-    },
-        {
-        "id": 7,
-        "name": "",
-        "price": 330.00,
-        "image": "products/images/litter-7.jpg",
-        "location": "Quezon City",
-        "description": "",
-        "category": "litter"
-    }
-
+  {
+    "id": 1,
+    "name": "Bamboo Organic Cat Litter 10L",
+    "price": 679.00,
+    "image": "/ampawnan/products/images/litter-1.jpg",
+    "location": "Marikina City",
+    "description": "Made from natural and organic bamboo. Highly absorbent (5-6 times greater than its weight). Natural bamboo's antibacterial, antioxidant, and deodorizing abilities protect your pet and ensure indoor fresh air. 100% biodegradable. 100% Eco-Friendly.",
+    "category": "litter"
+  },
+  {
+    "id": 2,
+    "name": "Catsan Clumping Cat Litter 10L",
+    "price": 330.00,
+    "image": "/ampawnan/products/images/litter-2.jpg",
+    "location": "Marikina City",
+    "description": "Quickly Absorbs and Forms Well-Defined Clumps. Easy to Remove. Effectively Absorbs Odour. Catsan Clumping Cat Litter is a top-quality cat litter made from naturally occurring Calcium Bentonite. When wet, the clay particles quickly absorb moisture and form small well-defined clumps. These clumps can be easily removed, thus, leaving the tray always clean and fresh.",
+    "category": "litter"
+  },
+  {
+    "id": 3,
+    "name": "Petsup Mineral Cat Litter",
+    "price": 195.00,
+    "image": "/ampawnan/products/images/litter-3.jpg",
+    "location": "Marikina City",
+    "description": "Keep your furry friend's litter box clean and fresh with Petsup Mineral Cat Litter Sand! This high-quality litter is formulated to provide natural odor control and absorbency for cats and kittens. The Petsup Mineral Cat Litter Sand is designed for quick and easy cleaning, so you can spend more time playing with your furbaby.",
+    "category": "litter"
+  },
+  {
+    "id": 4,
+    "name": "Kit Cat Classic Clump Coffee Cat Litter 10L",
+    "price": 349.00,
+    "image": "/ampawnan/products/images/litter-4.jpg",
+    "location": "Marikina City",
+    "description": "Anti-bacterial and non-toxic. Maximum odor control. Enhanced with deodorizing beads. 99% dust-free and non-tracking. Excellent absorption. Kit Cat Classic ClumpTM is a revolutionary cat litter enhanced with deodorizing beads, specially formulated by cat lovers to provide exceptional odor control and ease of cleaning.",
+    "category": "litter"
+  },
+  {
+    "id": 5,
+    "name": "Kit Cat Soya Clump Confetti Cat Litter 7L",
+    "price": 439.00,
+    "image": "/ampawnan/products/images/litter-5.jpg",
+    "location": "Marikina City",
+    "description": "Quick clumping. Eco-friendly. Suitable for all life stages. Virtually 99.9% dust-free. Scoop and flush. Soft and gentle on paw. Non-toxic and 100% safe. Odor-control. No tracking.",
+    "category": "litter"
+  },
+  {
+    "id": 6,
+    "name": "Simple Pets Gray Open Top Cat Litter Box with Rim and Scoop",
+    "price": 595.00,
+    "image": "/ampawnan/products/images/litter-box-6.jpg",
+    "location": "Marikina City",
+    "description": "Rim on the sides and back wall provide privacy. Keeps litter and spray inside the box. Removable top rim and open design makes it easy to scoop and spot clean. Lowered front wall lets cats come and go easily.",
+    "category": "litter-box"
+  },
+  {
+    "id": 7,
+    "name": "Simple Pets Brown Flip Top Enclosed Cat Litter Box with Scoop",
+    "price": 1850.00,
+    "image": "/ampawnan/products/images/litter-box-7.jpg",
+    "location": "Marikina City",
+    "description": "Great for multi-cat households, litter box is spacious. Door flips into an upright position for easy litter scooping. Hinged translucent door adds to cats' privacy. With anti-skid surface for easy cat entrance. Litter box top is removable, makes keeping it clean easier.",
+    "category": "litter-box"
+  },
+  {
+    "id": 8,
+    "name": "Approved Self Sifting Cat Litter Box Large",
+    "price": 1249.75,
+    "image": "/ampawnan/products/images/litter-box-8.jpg",
+    "location": "Marikina City",
+    "description": "Throw out your scoop and save time with our sifting cat litter box. This smartly designed unit features two nesting pans and a sifting screen. Shovel-free sifting cat litter pan makes less workload and gives you more time with your cat. The cat litter box uses environmental-friendly PP material. The box has a smooth surface and no peculiar smell. Anti-slip - The bottom of the cat litter box is designed with an anti-slip to prevent the cat litter box from moving freely.",
+    "category": "litter-box"
+  },
+  {
+    "id": 9,
+    "name": "Simple Pets Light Purple Flip Top Enclosed Cat Litter Box with Scoop",
+    "price": 1850.00,
+    "image": "/ampawnan/products/images/litter-box-9.jpg",
+    "location": "Marikina City",
+    "description": "Great for multi-cat households, litter box is spacious. Door flips into an upright position for easy litter scooping. Hinged translucent door adds to cats' privacy. With anti-skid surface for easy cat entrance. Litter box top is removable, makes keeping it clean easier.",
+    "category": "litter-box"
+  },
+  {
+    "id": 10,
+    "name": "IRIS USA Large Cat Litter Box with Scatter Shield & Scoop",
+    "price": 850.00,
+    "image": "/ampawnan/products/images/litter-box-10.jpg",
+    "location": "Marikina City",
+    "description": "Made in the USA using BPA-free materials. The three-sided shield helps keep litter and spray inside the box. The front entry design allows cats of all ages to easily enter and exit the litter tray. On top of keeping messes contained, the shield also provides your kitty with some privacy while they use the facilities.",
+    "category": "litter-box"
+  },
+  {
+    "id": 11,
+    "name": "Saint Roche Premium Sweet Embrace Scent Dry Dog Shampoo 128g",
+    "price": 149.00,
+    "image": "/ampawnan/products/images/shampoo-11.jpg",
+    "location": "Marikina City",
+    "description": "Saint Roche dry shampoo has been formulated to care for your dogs on a daily basis. The powder will absorb the heavy feeling of excess oil from your dog's coat, prevent odor and give your dogs a fresh feeling all day long. Use on days that your dogs did not bathe in order to prevent tangling, building up of excess oil and to protect against skin and coat mating.",
+    "category": "shampoo"
+  },
+  {
+    "id": 12,
+    "name": "Our Dog Plus Strawberry and Cream Tea Dog Shampoo 1L",
+    "price": 500.00,
+    "image": "/ampawnan/products/images/shampoo-12.jpg",
+    "location": "Marikina City",
+    "description": "MADE IN AUSTRALIA. Soap-free shampoo. Does not irritate dog's sensitive skin. Long lasting scent, promotes healthy skin and shiny coat.",
+    "category": "shampoo"
+  },
+  {
+    "id": 13,
+    "name": "Saint Roche Basics Cherub Scent Dog Shampoo 1000ml",
+    "price": 349.00,
+    "image": "/ampawnan/products/images/shampoo-13.jpg",
+    "location": "Marikina City",
+    "description": "Saint Roche Basics is made from mild ingredients that are gentle and safe for your dogs. It cleans, deodorizes and cares for the skin and coat of your dogs. Saint Roche Basics also includes fragrances formulated for that long-lasting effect to keep your dogs always smelling fresh and clean.",
+    "category": "shampoo"
+  },
+  {
+    "id": 14,
+    "name": "Doggie's Choice Anti Mange Dog Shampoo 1L",
+    "price": 599.00,
+    "image": "/ampawnan/products/images/shampoo-14.jpg",
+    "location": "Marikina City",
+    "description": "Anti Fungal, Anti Parasitic, Anti Bacterial. Contains Madre De Cacao. This treatment shampoo is developed for management of fungi and parasitic infections such as mange. Do not use shampoo on nursing dogs and pups under 3 months old, on sick or debilitated pets.",
+    "category": "shampoo"
+  },
+  {
+    "id": 15,
+    "name": "Glam Organic Forever Love Dog Shampoo 500ml",
+    "price": 320.00,
+    "image": "/ampawnan/products/images/shampoo-15.jpg",
+    "location": "Marikina City",
+    "description": "For Dogs of All Breeds and Life Stages. Infinite possibilities of Nature. The first and only organic and non-soap based bath solution. Ingredients are guaranteed 100% organic, safe and effective. 4-in-1 dog bath solution (shampoo, conditioner, moisturizer, anti tick and flea). Made from the finest organic ingredients with luxurious blends of essential oils that will change your dog's bath experience forever.",
+    "category": "shampoo"
+  },
+  {
+    "id": 16,
+    "name": "Saint Gertie Premium Mother Nature Scent Cat Shampoo 250ml",
+    "price": 179.00,
+    "image": "/ampawnan/products/images/shampoo-16.jpg",
+    "location": "Marikina City",
+    "description": "100% natural ingredients. Comes with Neem Oil, Rosemary, and Oatmeal extracts. Parabens free. Effectively removes ticks, fleas, and mites and prevents heavy fur shedding. It also has properties that balance the pH levels thus preventing allergic reactions.",
+    "category": "shampoo"
+  },
+  {
+    "id": 17,
+    "name": "TropiClean Deep Cleansing Waterless Cat Shampoo - Berry & Coconut",
+    "price": 580.00,
+    "image": "/ampawnan/products/images/shampoo-17.jpg",
+    "location": "Marikina City",
+    "description": "Easy-to-use TropiClean Deep Cleaning Waterless Shampoo for Cats is a deodorizing formula that provides a deep, no-rinse clean and leaves your cat's coat smelling fresh between baths. All you need to do is massage it in and brush it out. TropiClean enriched this shampoo with an effective blend of natural grime-fighting ingredients like white plum, cucumber, and oatmeal to help nourish your cat's dry skin and relax tangled fur for easy brushing.",
+    "category": "shampoo"
+  },
+  {
+    "id": 18,
+    "name": "TropiClean Gentle Coconut Hypoallergenic Cat & Kitten Shampoo",
+    "price": 630.00,
+    "image": "/ampawnan/products/images/shampoo-18.jpg",
+    "location": "Marikina City",
+    "description": "TropiClean Gentle Coconut Hypoallergenic Cat & Kitten Shampoo is perfect for cats with sensitive skin, as it gently cleanses and moisturizes the skin and coat with a soothing lather. Non-irritating, gentle and clean, the gentle coconut cleanser cleans without irritation and moisturizes with a soothing lather, and is made with naturally-derived ingredients.",
+    "category": "shampoo"
+  },
+  {
+    "id": 19,
+    "name": "Whisker City Cat Gentle Shampoo - Vanilla",
+    "price": 520.00,
+    "image": "/ampawnan/products/images/shampoo-19.jpg",
+    "location": "Marikina City",
+    "description": "Help your cat feel squeaky clean with a sweet and gentle vanilla shampoo that's perfect for soothing sensitive skin: Whisker City Gentle Shampoo. Wanna try something new? Check out other delicious scents and formulas until you find your favorite. Only at PetSmart.",
+    "category": "shampoo"
+  },
+  {
+    "id": 20,
+    "name": "Hempz Creamy Citrus Orange & Red Raspberry Cat Spray Cat Shampoo",
+    "price": 850.00,
+    "image": "/ampawnan/products/images/shampoo-20.jpg",
+    "location": "Marikina City",
+    "description": "Hempz Creamy Citrus Orange & Red Raspberry Cat Spray Cat Shampoo helps to keep your cat's skin and coat looking, feeling and smelling their best. This nourishing and hydrating shampoo contains a pleasing scent, and is made using 100% pure natural hemp seed oil.",
+    "category": "shampoo"
+  },
+  {
+    "id": 21,
+    "name": "Pet Express Round Fruit Pineapple 68x10x68cm Pet Bed",
+    "price": 699.00,
+    "image": "/ampawnan/products/images/carriage-21.jpg",
+    "location": "Marikina City",
+    "description": "This round pet bed is designed to resemble a playful pineapple, featuring a textured yellow exterior with a green tuft at the top, mimicking the look of a pineapple’s crown. The soft, plush fabric ensures a cozy and comfortable place for pets to snuggle, while the fun and fruity design adds a tropical flair to your home.",
+    "category": "carriage"
+  },
+  {
+    "id": 22,
+    "name": "Pet Express Round Fruit Strawberry 68x10x68cm Pet Bed",
+    "price": 699.00,
+    "image": "/ampawnan/products/images/carriage-22.jpg",
+    "location": "Marikina City",
+    "description": "This round pet bed features a charming strawberry design, with a bright red color and cute green accent resembling a fresh strawberry. The soft, plush material provides a comfortable and inviting space for pets to snuggle up, while the playful design adds a fun and whimsical touch to your home decor.",
+    "category": "carriage"
+  },
+  {
+    "id": 23,
+    "name": "Outward Hound PoochPouch Gray Backpack Pet Carrier",
+    "price": 2495.00,
+    "image": "/ampawnan/products/images/carriage-23.jpg",
+    "location": "Marikina City",
+    "description": "Padded air mesh straps and back for comfort while carrying. Removable bottom pouch pad for a comfortable ride. Water resistant nylon fabric is soft and durable. Safety harness attachment and zippered top for added durability.",
+    "category": "carriage"
+  },
+  {
+    "id": 24,
+    "name": "Zee.Cat Kombucha Cat Carrier",
+    "price": 3495.00,
+    "image": "/ampawnan/products/images/carriage-24.jpg",
+    "location": "Marikina City",
+    "description": "Designed for your cat's comfort whenever they travel. All around see-through ripstop mesh. Includes 45 cm leash. With two pockets for travel documents. Double sided bottom.",
+    "category": "carriage"
+  },
+  {
+    "id": 25,
+    "name": "Ibiyaya Collapsible Floral Gray Shoulder Pet Carrier",
+    "price": 2685.00,
+    "image": "/ampawnan/products/images/carriage-25.jpg",
+    "location": "Marikina City",
+    "description": "Ideal for small breeds. Maximum weight capacity of 6kg. Super lightweight and has top ventilation. Waterproof and collapsible for easy storage. Diaper friendly design: Easy attach to the removable mat.",
+    "category": "carriage"
+  },
+  {
+    "id": 26,
+    "name": "Simple Pets Double Door Green Pet Carrier",
+    "price": 1750.00,
+    "image": "/ampawnan/products/images/carriage-26.jpg",
+    "location": "Marikina City",
+    "description": "With front and top door. Made from durable plastic. Promotes air flow and allows your pet to see out. With a convenient carrying handle that can be folded down when not in use. Great for traveling with your furbaby.",
+    "category": "carriage"
+  },
+  {
+    "id": 27,
+    "name": "Petto Ai Collapsible Pet Cage - PURPLE",
+    "price": 905.00,
+    "image": "/ampawnan/products/images/carriage-27.jpg",
+    "location": "Marikina City",
+    "description": "Folds like a suitcase for easy transport. Close wire spacing for strength & stability. With a removable plastic tray for easy cleaning.",
+    "category": "carriage"
+  },
+  {
+    "id": 28,
+    "name": "Top Paw 24 Folding Crate",
+    "price": 1865.00,
+    "image": "/ampawnan/products/images/carriage-28.jpg",
+    "location": "Marikina City",
+    "description": "Create a safe and comfortable home for your pet with this Top Paw Blue Folding Crate. A crate is your pet's home, den, and comfort zone. It's where they can go for security and to feel safe. This amazing crate not only provides a safe and comfortable space for your dog, but also folds for easy transport and storage. Crates, when used properly, can be used to effectively train your dog and reduce potty training time. To prevent injury to your dog, start crate training as soon as possible to get them acquainted with their training environment.",
+    "category": "carriage"
+  },
+  {
+    "id": 29,
+    "name": "Diggs Evolv Dog Crate White",
+    "price": 1200.00,
+    "image": "/ampawnan/products/images/carriage-29.jpg",
+    "location": "Marikina City",
+    "description": "Evolv is designed to provide a safe and comfortable environment for your furry friend, and look sleek in your space. With dual lock doors, a strong steel frame, and paw-safe mesh, this crate is perfect for any pup. Plus, its adjustable doors and removable tray make for a hassle-free and customizable experience.",
+    "category": "carriage"
+  },
+  {
+    "id": 30,
+    "name": "Go Pet Club Heavy Duty Stackable Cat & Dog Crate with Divider",
+    "price": 2750.00,
+    "image": "/ampawnan/products/images/carriage-30.jpg",
+    "location": "Marikina City",
+    "description": "The Go Pet Club Heavy Duty Stackable Cat/Dog Crate with Divider is perfect for multi-pet families. Provide a separate space for multiple pets with this crate or remove the divider for a larger animal. This crate can also be stacked up to 3 tiers high to save space in your home. The removable tray allows easy cleaning of any accidents while in the crate and the hammertone finish provides a rust-resistant finish so it is easy to clean.",
+    "category": "carriage"
+  },
+  {
+    "id": 31,
+    "name": "TRIXIE Brain Mover Activity Strategy Game Cat Toy",
+    "price": 350.00,
+    "image": "/ampawnan/products/images/toy-31.jpg",
+    "location": "Marikina City",
+    "description": "Interactive cat toy requires your cat to use patience and concentration to get to the treats you hide inside. Includes four different modules to challenge their curiosity and intelligence. Game one is pushing away the balls, and game two is moving the sliders with his paws. Game three is moving the lever to open the drawers, and game four is tugging the drawer open using the loop.",
+    "category": "toy"
+  },
+  {
+    "id": 32,
+    "name": "SunGrow Interactive Exercise Puzzle Ball Treat Dispensing Teething Dog & Cat Toys, 2 count",
+    "price": 450.00,
+    "image": "/ampawnan/products/images/toy-32.jpg",
+    "location": "Marikina City",
+    "description": "Super fun toy for ferrets, cats, small dogs and medium dogs. Promotes your pet’s dental health. Made of a durable rubber. Fill with your pet’s favorite treats (sold separately) for awesome playtime. A great way to keep your furbaby active and entertained.",
+    "category": "toy"
+  },
+  {
+    "id": 33,
+    "name": "SunGrow Tug of War Cat & Dog Rope Pull Toy for Boredom & Stimulating, Dental Chew Teething Knot, 5 count",
+    "price": 500.00,
+    "image": "/ampawnan/products/images/toy-33.jpg",
+    "location": "Marikina City",
+    "description": "Created for your teething furry friend. Helps relieve boredom and stress and is fun to play with every day. Provides hours of training fun and these durable toys are awesome for interactive playtime. Keeps your best pal entertained for hours while you’re away.",
+    "category": "toy"
+  },
+  {
+    "id": 34,
+    "name": "SunGrow Feather Teaser Wand & Fishing Pole Interactive Toy for Indoor Cat & Dog, 11 count",
+    "price": 450.00,
+    "image": "/ampawnan/products/images/toy-34.jpg",
+    "location": "Marikina City",
+    "description": "Helps provide exciting entertainment for felines of all ages. Classic design can keep cats engaged and at play for longer periods. Telescopic fishing pole design allows pet parents to get in on the fun. High-quality design provides durability for safer play.",
+    "category": "toy"
+  },
+  {
+    "id": 35,
+    "name": "FluentPet Basic Button Dog & Cat Games & Puzzles Toy",
+    "price": 1000.00,
+    "image": "/ampawnan/products/images/toy-35.jpg",
+    "location": "Marikina City",
+    "description": "FluentPet’s Basic buttons let you record custom, high-fidelity words and sounds. The easy-to-press buttons are suitable for cats and dogs of all sizes. The compact design allows for more buttons to fit in a smaller space, making it ideal for apartments and small rooms. FluentPet provides step-by-step training and guided lessons for each stage of learning.",
+    "category": "toy"
+  },
+  {
+    "id": 36,
+    "name": "Pawsh Couture Abby Dress Hearts Dog Apparel Blue",
+    "price": 199.00,
+    "image": "/ampawnan/products/images/accessory-36.jpg",
+    "location": "Marikina City",
+    "description": "This limited-edition dress is made of lightweight and breathable fabric materials with cute bunny prints on the soft cottony skirt. Convenient neck opening and Velcro snap makes it easy to dress up your pets.",
+    "category": "accessory"
+  },
+  {
+    "id": 37,
+    "name": "Frisco Light Up Holiday Wreath Dog & Cat Collar",
+    "price": 650.00,
+    "image": "/ampawnan/products/images/accessory-37.jpg",
+    "location": "Marikina City",
+    "description": "This wreath-inspired collar reimagines the classic holiday decoration as a wearable way for your pet to showcase their holiday spirit. Multicolored, mini-LED lights with three setting options let you customize how they shine. The elastic neck opening allows for sliding over your pet’s head easily. There’s also a hidden pocket with hook-and-loop closure to keep the battery pack safely tucked away.",
+    "category": "accessory"
+  },
+  {
+    "id": 38,
+    "name": "Approved Washable Male Wrap 1s Extra Large",
+    "price": 349.00,
+    "image": "/ampawnan/products/images/accessory-38.jpg",
+    "location": "Marikina City",
+    "description": "The breathable mesh fits the skin, soft and comfortable, with a terry cloth in the middle. Super absorbent in an instant, breathable and dry. The waterproof TPU outer layer prevents leaks and spills. Perfect for bitches in season or giving birth, family, travel or incontinent dogs.",
+    "category": "accessory"
+  },
+  {
+    "id": 39,
+    "name": "Pawsh Couture Board Shorts Blue Polka Dog Apparel",
+    "price": 149.00,
+    "image": "/ampawnan/products/images/accessory-39.jpg",
+    "location": "Marikina City",
+    "description": "Board Shorts Collection - Blue Polka. Made of light microfiber. This piece is perfect for your pet's everyday activities even water activities. Easy to wash and dry.",
+    "category": "accessory"
+  },
+  {
+    "id": 41,
+    "name": "Ciao Churu Tuna Maguro Cat Treats 14gx4 (SC-71) (2 packs)",
+    "price": 220.00,
+    "image": "/ampawnan/products/images/food-41.jpg",
+    "location": "Marikina City",
+    "description": "For all life stages. Feed as a treat to a cat. Contains Vitamin E which acts as an antioxidant while reducing debilitating conditions like allergies and arthritis. Fortified with Green Tea that helps reduce cholesterol and blood sugar levels and provides oral support for healthier teeth and gums.",
+    "category": "food"
+  },
+  {
+    "id": 42,
+    "name": "SmartHeart Creamy Salmon Cat Treats 60g",
+    "price": 110.00,
+    "image": "/ampawnan/products/images/food-42.jpg",
+    "location": "Marikina City",
+    "description": "For cats of all breeds and life stages. Salmon flavor. A perfect cat treat for complete and balanced nutrition. Added Sodium Hexametaphosphate (SHMP) helps prevent plaque occurrence, reducing bad breath.",
+    "category": "food"
+  },
+  {
+    "id": 43,
+    "name": "Hartz Delectables Stew Variety Pack Lickable Cat Treats",
+    "price": 200.00,
+    "image": "/ampawnan/products/images/food-43.jpg",
+    "location": "Marikina City",
+    "description": "Lickable treats made with tender chicken or fish in savory sauce. Includes 12 single-serve pouches with three irresistible flavors. Moisture-rich treats help add healthy hydration to your cat’s diet.",
+    "category": "food"
+  },
+  {
+    "id": 44,
+    "name": "Ciao Churu Seafood Festive Jar Cat Treats 14gx50 (TSC-13T)",
+    "price": 800.00,
+    "image": "/ampawnan/products/images/food-44.jpg",
+    "location": "Marikina City",
+    "description": "Ideal for taking together with medications. No grains, artificial colors, or preservatives. Creamy texture and savory flavors cats love. An innovative, interactive way to spend time together.",
+    "category": "food"
+  },
+  {
+    "id": 45,
+    "name": "Carnilove Soft Snack Chicken with Thyme Cat Treats 50g",
+    "price": 109.00,
+    "image": "/ampawnan/products/images/food-45.jpg",
+    "location": "Marikina City",
+    "description": "Complementary cat food. Delicious soft snack suitable for all breeds. Thyme helps cleanse the urinary tract.",
+    "category": "food"
+  },
+  {
+    "id": 46,
+    "name": "Good 'n' Fun Triple Flavor Kabobs Chicken, Duck & Chicken Liver Dog Chews",
+    "price": 290.00,
+    "image": "/ampawnan/products/images/food-46.jpg",
+    "location": "Marikina City",
+    "description": "These tasty chews are made from premium beef hide, savory chicken breast, delicious pork hide, wholesome duck, and hearty chicken liver. Wrapped with premium cuts of real chicken, the chews are a great source of protein. The kabob-shaped chew makes for fun and flavorful chew time.",
+    "category": "food"
+  },
+  {
+    "id": 47,
+    "name": "Good 'n' Tasty Triple Flavor Stacks with Peanut Butter Bite Sized Crunchy Dog Treats",
+    "price": 100.00,
+    "image": "/ampawnan/products/images/food-47.jpg",
+    "location": "Marikina City",
+    "description": "Features 3 layers—premium chicken, real peanut butter, and chicken liver. Made without artificial flavors or preservatives. These crunchy treats are fun for chewing and snacking.",
+    "category": "food"
+  },
+  {
+    "id": 48,
+    "name": "Good 'n' Tasty Variety Pack Triple Flavor Real Chicken Duck & Beef Snap 'Ems Gourmet Reward or Training Sticks Soft & Chewy Dog Treats, 15 count",
+    "price": 375.00,
+    "image": "/ampawnan/products/images/food-48.jpg",
+    "location": "Marikina City",
+    "description": "This variety pack includes chicken, duck, and beef flavors. Each stick is easy to break at marked points, perfect for dogs of all sizes. Keeps treat time fun and exciting.",
+    "category": "food"
+  },
+  {
+    "id": 49,
+    "name": "Royal Canin Size Health Nutrition Adult Mini Dry Dog Food 800g",
+    "price": 509.00,
+    "image": "/ampawnan/products/images/food-49.jpg",
+    "location": "Marikina City",
+    "description": "Helps maintain ideal weight in small breed dogs by meeting high energy needs while using L-carnitine to promote fat metabolism. Satisfies fussy appetites with exclusive flavorings and supports healthy skin with EPA-DHA.",
+    "category": "food"
+  },
+  {
+    "id": 50,
+    "name": "Pedigree Dentastix Puppy 4-12 Months Dog Treats 7s 56g (2 packs)",
+    "price": 158.00,
+    "image": "/ampawnan/products/images/food-50.jpg",
+    "location": "Marikina City",
+    "description": "With anti-tartar ingredients. High calcium, low fat, and no sugar added. Specially designed for puppies with a unique X-shape to help reduce plaque and tartar buildup while keeping teeth and gums healthy.",
+    "category": "food"
+  }
 ]
