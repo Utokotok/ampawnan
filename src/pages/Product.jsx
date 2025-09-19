@@ -1,8 +1,8 @@
-function Shop(){
+function Product(){
     return(
         <>
         </>
     )
 }
 
-export default Shop
+export default Product

@@ -1,13 +1,39 @@
 @import "tailwindcss";
 
-.nav-categories-option{
+/* .nav-categories-option{
     @apply w-full h-full relative flex justify-center items-center;
 }
 
+
+ */
+
 .categories-option{
-    @apply relative grid grid-cols-[30%_70%] m-1 justify-items-center items-center rounded-[0.5rem] pr-5 text-[clamp(0.7rem,calc(2vw+0.2rem),1rem)] text-white font-light;
+    @apply bg-[var(--bg)] w-[80px] h-20 flex flex-col justify-center items-center rounded-[0.5rem] shadow-2xs text-[0.7rem] text-[var(--text)] sm:w-full md:h-24 md:text-[0.8rem] lg:text-[1rem];
 }
 
-.categories-img{
-    @apply rounded-full relative w-[auto] h-[2rem] object-contain sm:h-[3.5rem] ml-5; 
+.categories-option p{
+  @apply relative top-1 md:top-1.5 text-[var(--text-muted)];
+}
+ .categories-img{
+    @apply rounded-full relative w-[auto] h-[2rem] md:h-[3rem] object-contain outline-1 outline-[#c4c4c4]; 
+}
+
+@keyframes entryAnimation{
+  0%{
+    transform: translateY(1rem);
+    opacity: 0;
+  }
+  100%{
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.cardsEntryAnimation{
+  opacity: 0;
+  animation: entryAnimation 0.5s linear calc(var(--i)*0.030s) forwards;
+}
+
+.entryAnimation{
+  animation: entryAnimation 0.5s linear forwards;
 }

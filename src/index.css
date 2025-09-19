@@ -1,6 +1,11 @@
 @import "tailwindcss";
 @import "./styles/navbar.css";
 @import "./styles/bottom-navbar.css";
+@import "./styles/card-filler.css";
+
+*{
+    scrollbar-width: none;
+}
 
 :root {
 --bg-dark: hsl(0 0% 90%);
@@ -17,4 +22,5 @@
 --warning: hsl(52 23% 34%);
 --success: hsl(147 19% 36%);
 --info: hsl(217 22% 41%);
+--bg-darker: hsla(0, 0%, 90%, 0.562);
 }
